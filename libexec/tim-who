@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Usage: sub who
+# Summary: Check who's logged in
+# Help: This will print out when you run `sub help who`.
+# You can have multiple lines even!
+#
+#    Show off an example indented
+#
+# And maybe start off another one?
+
+set -e
+
+who
