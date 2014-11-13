@@ -2,4 +2,6 @@
 # Usage: tim ip
 # Summary: get the current public ip address
 # Help: uses ipify.org
+
 curl http://api.ipify.org
+
